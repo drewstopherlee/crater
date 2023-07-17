@@ -8,3 +8,5 @@ docker-compose.*
 LICENSE
 nginx.conf
 yarn.lock
+docker-compose/
+cron/
